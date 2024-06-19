@@ -17,17 +17,17 @@ export class SkillsComponent {
 
   typeWriterEffect() {
     const messages = [
-      "                          Java                  JavaScript",
-      "                          Git                   TypeScript",
-      "                          Docker                SpringBoot",
-      "                          CI                    JUnit",
-      "                          OOP                   Linux",
-      "                          Windows               MacOS",
-      "                          Microservices         Distributed",
-      "                          Back                  Front",
-      "                          Quarkus               Spring",
-      "                          Angular               Jenkins",
-      "                          Maven                 Ionic"
+      "                             Java          JavaScript",
+      "                             Angular       TypeScript",
+      "                             Docker        SpringBoot",
+      "                             CI            CD",
+      "                             OOP           Linux",
+      "                             Windows       MacOS",
+      "                             Git           Microservices",
+      "                             Back          Front",
+      "                             Quarkus       Spring",
+      "                             Jenkins       JUnit",
+      "                             Maven         Ionic"
     ];
 
     let index = 0;
