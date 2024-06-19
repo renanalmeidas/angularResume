@@ -18,8 +18,8 @@ export class SkillsComponent {
   typeWriterEffect() {
     const messages = [
       "                          Java                  JavaScript",
-      "                          TypeScript            SpringBoot",
-      "                          Docker                Git",
+      "                          Git                   TypeScript",
+      "                          Docker                SpringBoot",
       "                          CI                    JUnit",
       "                          OOP                   Linux",
       "                          Windows               MacOS",
