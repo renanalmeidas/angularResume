@@ -21,13 +21,13 @@ export class SkillsComponent {
       "                             Angular       TypeScript",
       "                             Docker        SpringBoot",
       "                             CI            CD",
-      "                             OOP           Linux",
+      "                             OOP           Git",
       "                             Windows       MacOS",
-      "                             Git           Microservices",
       "                             Back          Front",
       "                             Quarkus       Spring",
       "                             Jenkins       JUnit",
-      "                             Maven         Ionic"
+      "                             Maven         Ionic",
+      "                                 Microservices"
     ];
 
     let index = 0;
