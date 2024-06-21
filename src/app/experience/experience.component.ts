@@ -26,7 +26,7 @@ export class ExperienceComponent {
       "",
       "",
     
-      "Software Engineer, Porto Seguro - Seguros (08/2021 - 06/2024)",
+      "Software Engineer, Porto Seguro - Seguros (08/2021 - 08/2023)",
       " - Support and maintenance of the application for brokers. ",
       " - Problem solving and system structure maintenance. ",
       " - Development and maintenance of batch processing applications. ",
